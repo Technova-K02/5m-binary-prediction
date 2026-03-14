@@ -1,0 +1,18 @@
+# Proxy list example - one proxy per line
+# Format: http://host:port or http://user:pass@host:port
+# Lines starting with # are ignored
+
+# Example free proxies (replace with working ones)
+http://proxy1.example.com:8080
+http://proxy2.example.com:3128
+http://proxy3.example.com:80
+
+# You can get free proxies from:
+# - https://www.proxy-list.download/
+# - https://free-proxy-list.net/
+# - https://www.proxyscrape.com/
+# 
+# Or use paid proxy services for better reliability:
+# - Bright Data (formerly Luminati)
+# - Smartproxy
+# - Oxylabs
